@@ -1,0 +1,6 @@
+{
+    "watch": ["src/"],
+    "ext": "ts,html,css,json",
+    "ignore": ["src/environments/*"],
+    "exec": "ng build && npm run copy && ng serve --proxy-config proxy.config.json"
+  }

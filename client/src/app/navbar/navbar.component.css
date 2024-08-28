@@ -1,0 +1,17 @@
+.custom-navbar {
+  box-shadow: 0 0 15px 3px #4628b1;
+  height: auto;
+}
+
+.custom-navbar .navbar-brand {
+  font-weight: bold;
+}
+
+.custom-navbar .nav-link.active {
+  color: #8c52ff !important;
+  font-weight: bold;
+}
+
+.custom-navbar .nav-link:hover {
+  color: #936ec0 !important;
+}
