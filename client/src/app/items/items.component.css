@@ -1,12 +1,14 @@
 .container {
-  position: relative;
-  margin: auto;
-  margin-top: 20px;
   opacity: 95%;
-  border-color: #8c52ff #8c52ff #8c52ff #8c52ff;
-  border-style: solid solid solid solid;
-  border-width: 0px 2px 0px 2px;
+  border-color: #8c52ff;
+  border-style: solid;
+  border-width: 0px 2px;
   display: flex;
-  justify-content: center;
-  align-items: top;
+  align-items: flex-start;
+}
+
+@media (max-width: 600px) {
+  .container {
+    justify-content: center;
+  }
 }

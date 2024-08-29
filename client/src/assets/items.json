@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Samsung 4K Smart TV",
+      "price": 1299.99,
+      "category": "Electronics",
+      "description": "Experience stunning visuals with the Samsung 4K Smart TV. It offers a large display and smart features for seamless streaming.",
+      "in_stock": true
+    },
+    {
+      "name": "KitchenAid Stand Mixer",
+      "price": 299.99,
+      "category": "Home",
+      "description": "Create culinary masterpieces with the KitchenAid Stand Mixer. It comes with various attachments and a powerful motor.",
+      "in_stock": true
+    },
+    {
+      "name": "Outdoor Camping Tent",
+      "price": 149.99,
+      "category": "Outdoor",
+      "description": "Enjoy the great outdoors with this spacious and durable camping tent. It offers easy setup and weather resistance.",
+      "in_stock": false
+    },
+    {
+      "name": "Fitbit Versa 3",
+      "price": 199.99,
+      "category": "Fitness",
+      "description": "Track your fitness goals with the Fitbit Versa 3. It features heart rate monitoring, built-in GPS, and a variety of workout modes.",
+      "in_stock": true
+    },
+    {
+      "name": "Leather Crossbody Bag",
+      "price": 79.99,
+      "category": "Fashion",
+      "description": "Carry your essentials in style with this chic leather crossbody bag. It offers multiple compartments and an adjustable strap.",
+      "in_stock": true
+    }
+]
+

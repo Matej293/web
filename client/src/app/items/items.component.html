@@ -1,3 +1,20 @@
-<div class="container h-100 bg-white"> 
-    <p class="p-5">items works!</p>
+<div class="container h-100 bg-white">
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Price</th>
+          <th>Category</th>
+          <th>In Stock</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of items">
+          <td>{{ item.name }}</td>
+          <td>{{ item.price }}$</td>
+          <td>{{ item.category }}</td>
+          <td>{{ item.in_stock }}</td>
+        </tr>
+      </tbody>
+    </table>
 </div>

@@ -3,10 +3,6 @@
   height: auto;
 }
 
-.custom-navbar .navbar-brand {
-  font-weight: bold;
-}
-
 .custom-navbar .nav-link.active {
   color: #8c52ff !important;
   font-weight: bold;
